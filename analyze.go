@@ -11,7 +11,7 @@ import (
 
 func main() {
 	counter := 1
-	max := 300000
+	max := 458223
 	// max := 458223
 
 	// series [1-8]
