@@ -1,0 +1,59 @@
+--- ROUND OF 16 ---
+
+
+Vegas Golden Knights ------ Chicago Blackhawks
+-------------------------------------------
+Win in 4 games: 23670 (7.89%)-------- Win in 4 games: 1846 (0.62%)
+Win in 5 games: 110330 (36.78%)-------- Win in 5 games: 6850 (2.28%)
+Win in 6 games: 94173 (31.39%)-------- Win in 6 games: 27822 (9.27%)
+Win in 7 games: 13471 (4.49%)-------- Win in 7 games: 21828 (7.28%)
+=============================================
+Colorado Avalanche --------- Arizona Coyotes
+-------------------------------------------
+Win in 4 games: 35199 (11.73%)-------- Win in 4 games: 1883 (0.63%)
+Win in 5 games: 123859 (41.29%)-------- Win in 5 games: 7321 (2.44%)
+Win in 6 games: 82993 (27.66%)-------- Win in 6 games: 15561 (5.19%)
+Win in 7 games: 15989 (5.33%)-------- Win in 7 games: 17169 (5.72%)
+=============================================
+Dallas Stars --------------- Calgary Flames
+-------------------------------------------
+Win in 4 games: 5729 (1.91%)-------- Win in 4 games: 7139 (2.38%)
+Win in 5 games: 25306 (8.44%)-------- Win in 5 games: 30991 (10.33%)
+Win in 6 games: 52994 (17.66%)-------- Win in 6 games: 78312 (26.10%)
+Win in 7 games: 32889 (10.96%)-------- Win in 7 games: 66614 (22.20%)
+=============================================
+St. Louis Blues --------- Vancouver Canucks
+-------------------------------------------
+Win in 4 games: 12570 (4.19%)-------- Win in 4 games: 3164 (1.05%)
+Win in 5 games: 54970 (18.32%)-------- Win in 5 games: 12457 (4.15%)
+Win in 6 games: 86917 (28.97%)-------- Win in 6 games: 41140 (13.71%)
+Win in 7 games: 37860 (12.62%)-------- Win in 7 games: 50896 (16.97%)
+=============================================
+Philadelphia Flyers ------ Montreal Canadiens
+-------------------------------------------
+Win in 4 games: 52914 (17.64%)-------- Win in 4 games: 2348 (0.78%)
+Win in 5 games: 117310 (39.10%)-------- Win in 5 games: 6237 (2.08%)
+Win in 6 games: 67623 (22.54%)-------- Win in 6 games: 18792 (6.26%)
+Win in 7 games: 14118 (4.71%)-------- Win in 7 games: 20632 (6.88%)
+=============================================
+Tampa Bay Lightning - Columbus Blue Jackets
+-------------------------------------------
+Win in 4 games: 16625 (5.54%)-------- Win in 4 games: 6627 (2.21%)
+Win in 5 games: 56297 (18.77%)-------- Win in 5 games: 17515 (5.84%)
+Win in 6 games: 84276 (28.09%)-------- Win in 6 games: 43726 (14.58%)
+Win in 7 games: 36455 (12.15%)-------- Win in 7 games: 38453 (12.82%)
+=============================================
+Washington Capitals ---- New York Islanders
+-------------------------------------------
+Win in 4 games: 15616 (5.21%)-------- Win in 4 games: 2284 (0.76%)
+Win in 5 games: 56828 (18.94%)-------- Win in 5 games: 11476 (3.83%)
+Win in 6 games: 86235 (28.74%)-------- Win in 6 games: 38376 (12.79%)
+Win in 7 games: 43447 (14.48%)-------- Win in 7 games: 45712 (15.24%)
+=============================================
+Boston Bruins ---------- Carolina Hurricanes
+-------------------------------------------
+Win in 4 games: 8479 (2.83%)-------- Win in 4 games: 8183 (2.73%)
+Win in 5 games: 28640 (9.55%)-------- Win in 5 games: 30109 (10.04%)
+Win in 6 games: 53601 (17.87%)-------- Win in 6 games: 66487 (22.16%)
+Win in 7 games: 37883 (12.63%)-------- Win in 7 games: 66592 (22.20%)
+=============================================
